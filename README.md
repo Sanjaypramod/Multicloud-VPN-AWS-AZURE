@@ -39,5 +39,7 @@ CONFIGURATION STEPS
    ![image](https://github.com/Sanjaypramod/Multicloud-VPN-AWS-AZURE/assets/86740453/b4fd1282-7baf-4eaa-bea0-d51bf5361c5d)
    ![image](https://github.com/Sanjaypramod/Multicloud-VPN-AWS-AZURE/assets/86740453/646ac098-9291-43cc-bcc8-6a3a2c2ea823)
 
+3. Create the VPN Gateway
+   ![Screenshot 2024-04-20 130151](https://github.com/Sanjaypramod/Multicloud-VPN-AWS-AZURE/assets/86740453/3dd9ff6b-0b8e-4a0b-9de2-ffddacce3357)
 
 
