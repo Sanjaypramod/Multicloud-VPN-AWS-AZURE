@@ -1,5 +1,4 @@
 # Multicloud-VPN-AWS-AZURE
-(Site to Site VPN) How to create a VPN between Azure and AWS.
 In this Article I have gone through (Site to Site VPN) How to create a VPN between Azure and AWS.
 
 The procedure is as follows.
@@ -35,4 +34,10 @@ CONFIGURATION STEPS
 
 1. Crate a resource group on Azure to deploy the resources on that
    ![image](https://github.com/Sanjaypramod/Multicloud-VPN-AWS-AZURE/assets/86740453/644a1718-4468-4da7-a735-a7dfe6f43a43)
+
+2. Create a Virtual Network, subnet and Gateway subnet
+   ![image](https://github.com/Sanjaypramod/Multicloud-VPN-AWS-AZURE/assets/86740453/b4fd1282-7baf-4eaa-bea0-d51bf5361c5d)
+   ![image](https://github.com/Sanjaypramod/Multicloud-VPN-AWS-AZURE/assets/86740453/646ac098-9291-43cc-bcc8-6a3a2c2ea823)
+
+
 
